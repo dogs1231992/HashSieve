@@ -201,8 +201,6 @@ Bug reports, feature requests, GitHub stars, and sponsorship are all appreciated
 - Buy Me a Coffee: https://buymeacoffee.com/dogs1231992
 - Author / bug reports: wangsh@vt.edu
 
----
-
 ## License
 
 HashSieve is released under the [MIT License](LICENSE).
