@@ -192,3 +192,17 @@ Author: Shih-Han Wang
 Email: wangsh@vt.edu
 
 Bug reports, feature requests, GitHub stars, and sponsorship are all appreciated.
+
+## Links
+
+- GitHub repository: https://github.com/dogs1231992/HashSieve
+- GitHub Releases: https://github.com/dogs1231992/HashSieve/releases
+- GitHub Sponsors: https://github.com/sponsors/dogs1231992
+- Buy Me a Coffee: https://buymeacoffee.com/dogs1231992
+- Author / bug reports: wangsh@vt.edu
+
+---
+
+## License
+
+HashSieve is released under the [MIT License](LICENSE).
