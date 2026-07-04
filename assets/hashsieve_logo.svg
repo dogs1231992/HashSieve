@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="HashSieve logo">
+  <defs>
+    <linearGradient id="bg" x1="20%" y1="5%" x2="85%" y2="95%">
+      <stop offset="0%" stop-color="#1d4ed8"/>
+      <stop offset="55%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <linearGradient id="sieve" x1="30%" y1="20%" x2="70%" y2="90%">
+      <stop offset="0%" stop-color="#f0f9ff"/>
+      <stop offset="100%" stop-color="#bbf7d0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="512" cy="512" r="438" fill="url(#bg)" stroke="#0f3b73" stroke-width="22"/>
+  <rect x="238" y="240" width="548" height="200" rx="88" fill="#e0f2fe" stroke="#ffffff" stroke-width="10"/>
+  <rect x="270" y="285" width="484" height="122" rx="60" fill="#bae6fd"/>
+  <g fill="#1f6694">
+    <circle cx="340" cy="322" r="18"/><circle cx="420" cy="322" r="18"/><circle cx="500" cy="322" r="18"/><circle cx="580" cy="322" r="18"/><circle cx="660" cy="322" r="18"/>
+    <circle cx="340" cy="365" r="18"/><circle cx="420" cy="365" r="18"/><circle cx="500" cy="365" r="18"/><circle cx="580" cy="365" r="18"/><circle cx="660" cy="365" r="18"/>
+  </g>
+  <path d="M330 430 H694 L588 682 H436 Z" fill="url(#sieve)" stroke="#ffffff" stroke-width="10"/>
+  <rect x="454" y="666" width="116" height="138" rx="32" fill="#c4f1df" stroke="#ffffff" stroke-width="10"/>
+  <text x="512" y="635" font-family="Segoe UI, Arial, sans-serif" font-size="250" font-weight="800" text-anchor="middle" fill="#1f5384">#</text>
+  <g fill="#e0f2fe">
+    <circle cx="382" cy="800" r="17"/><circle cx="546" cy="835" r="16"/>
+  </g>
+  <g fill="#c4f1df">
+    <circle cx="470" cy="850" r="13"/><circle cx="646" cy="798" r="12"/>
+  </g>
+</svg>
