@@ -1,10 +1,7 @@
 {
-  "app_name": "HashSieve",
-  "version": "v1.2026.07.04",
-  "release_date": "2026-07-04",
-  "author": "Shih-Han Wang",
-  "email": "wangsh@vt.edu",
-  "description": "Recursive file hash calculator and duplicate-file cleaner using file size plus MD5, SHA-1, CRC32, SHA-256, SHA-384, and SHA-512.",
+  "name": "HashSieve",
+  "version": "v2.2026.07.19",
+  "release_date": "2026-07-19",
   "repository": "https://github.com/dogs1231992/HashSieve",
-  "release_url": "https://github.com/dogs1231992/HashSieve/releases/tag/v1.2026.07.04"
+  "release_url": "https://github.com/dogs1231992/HashSieve/releases"
 }

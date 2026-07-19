@@ -1,25 +1,35 @@
 # Python
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
-.Python
-.venv/
-.build_venv/
-.env
+*.egg-info/
+.eggs/
 
-# Build outputs
+# 虛擬環境
+venv/
+.venv/
+env/
+
+# PyInstaller 打包產物
 build/
 dist/
 release/
+.build_venv/
 *.spec.bak
 
-# Logs and local data
+# 使用者個人設定檔（執行時期自動產生，不應該進版控）
 *.log
-*.tmp
-.DS_Store
-Thumbs.db
 
 # IDE
 .vscode/
 .idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# 測試暫存
+.pytest_cache/

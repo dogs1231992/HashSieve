@@ -1,0 +1,10 @@
+name: hashsieve-gui
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - PySide6==6.8.3
+      - send2trash>=1.8.2
+      - pyinstaller>=6.0

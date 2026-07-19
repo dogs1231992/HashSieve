@@ -1,3 +1,5 @@
-tkinterdnd2>=0.4.3
-send2trash>=1.8.3
-pyinstaller>=6.11.1
+# HashSieve modern GUI runtime
+# Pin PySide6 to a known Qt 6 build so shiboken6 / PySide6-Essentials / PySide6-Addons stay consistent.
+PySide6==6.8.3
+send2trash>=1.8.2
+pyinstaller>=6.0

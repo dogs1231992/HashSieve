@@ -1,28 +1,12 @@
-# UTF-8
 VSVersionInfo(
-  ffi=FixedFileInfo(
-    filevers=(1, 2026, 7, 4),
-    prodvers=(1, 2026, 7, 4),
-    mask=0x3f,
-    flags=0x0,
-    OS=0x40004,
-    fileType=0x1,
-    subtype=0x0,
-    date=(0, 0)
-  ),
-  kids=[
-    StringFileInfo([
-      StringTable(
-        '040904B0',
-        [StringStruct('CompanyName', 'Shih-Han Wang'),
-         StringStruct('FileDescription', 'HashSieve - Recursive hash and duplicate-file cleaner'),
-         StringStruct('FileVersion', 'v1.2026.07.04'),
-         StringStruct('InternalName', 'HashSieve'),
-         StringStruct('LegalCopyright', 'Copyright (c) 2026 Shih-Han Wang'),
-         StringStruct('OriginalFilename', 'HashSieve.exe'),
-         StringStruct('ProductName', 'HashSieve'),
-         StringStruct('ProductVersion', 'v1.2026.07.04')])
-    ]),
-    VarFileInfo([VarStruct('Translation', [1033, 1200])])
-  ]
+  ffi=FixedFileInfo(filevers=(2,2026,7,19), prodvers=(2,2026,7,19), mask=0x3f, flags=0x0, OS=0x40004, fileType=0x1, subtype=0x0, date=(0, 0)),
+  kids=[StringFileInfo([StringTable('040904B0', [
+    StringStruct('CompanyName', 'Shih-Han Wang'),
+    StringStruct('FileDescription', 'HashSieve recursive hash and duplicate-file cleaner'),
+    StringStruct('FileVersion', 'v2.2026.07.19'),
+    StringStruct('InternalName', 'HashSieve'),
+    StringStruct('OriginalFilename', 'HashSieve.exe'),
+    StringStruct('ProductName', 'HashSieve'),
+    StringStruct('ProductVersion', 'v2.2026.07.19')
+  ])]), VarFileInfo([VarStruct('Translation', [1033, 1200])])]
 )
